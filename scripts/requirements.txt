@@ -1,6 +1,6 @@
 beautifulsoup4==4.9.3
 colorama==0.4.6
-googlesearch_python==1.1.0
+git+https://github.com/tomviner/googlesearch.git@eed12620ff93f8fb74db7068b9106e88acd4656b
 openai==0.27.0
 playsound==1.2.2
 readability_lxml==0.8.1
